@@ -1,4 +1,6 @@
-### Hi there 👋
+### Glad to have you here! 👋
+
+I'm currently working as a Data Engineer and have strong interest in Data Analytics and Data Science. Still, learning new things is my jam and here you might find all sorts of projects from low level programming languages to mobile apps and more.
 
 <!--
 **lassi-dev/lassi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
